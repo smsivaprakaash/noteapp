@@ -1,0 +1,30 @@
+header{
+    text-align: center;
+    padding: 3%;
+    font-size: 3em;
+    color: #484444;
+    background: linear-gradient(gray, white);
+}
+#description, #title {
+    border: 0;
+    border-bottom: 1px solid;
+    width: 80%;
+    padding: 2%;
+    outline: none;
+}
+#detailed-notes {
+    margin-top: 3%;
+}
+.first-col{
+    min-height: 350px;
+    border-right: 1px solid lightgray;
+}
+.button-row{
+    padding-top: 5%;
+}
+button {
+    background:grey ;
+}
+.second-col {
+    margin: 2%;
+}
